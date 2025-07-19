@@ -1,22 +1,22 @@
 <h1 align="center">👋 Hi, I'm Abera Hiluf</h1>
 <h3 align="center">A passionate Full Stack Web Developer based in Addis Ababa</h3>
 
----
+
 
 ### 📌 About Me:
 🌟 I’m Abera Hiluf Teshale, currently studying Information Systems at Addis Ababa University.  
-🌱 I’m learning Full-Stack Development (React, Node.js, MySQL).  
+🌱 I’ve completed full stack development training at Evangadi Networks (React, Node.js, MySQL).  
 👨‍💻 I love solving real-world problems through code and design.  
-🎯 I aim to build impactful projects that help my community.
+🎯 I aim to build impactful projects that help my community grow through technology.
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/http://abportfolio.aberahiluf.com/) 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](teshalea000@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https:[//yourportfolio.com](https://github.com/abera-hiluf/))
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abportfolio.aberahiluf.com)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:teshalea000@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/abera-hiluf)
 
----
+
 
 ### 🛠️ Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -33,11 +33,11 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abera-hiluf&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abera-hiluf&theme=radical" width="48%" />
 </p>
 
----
+
 
 ### 🧠 Currently Learning:
 - Advanced React & Redux
