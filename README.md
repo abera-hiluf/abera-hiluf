@@ -37,6 +37,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abera-hiluf&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abera-hiluf&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abera-hiluf&layout=compact&theme=radical" width="48%"/>
+
 </p>
 
 ---
@@ -45,3 +47,4 @@
 - Advanced React & Redux
 - REST APIs
 - MongoDB and Express.js
+- AI $ML
