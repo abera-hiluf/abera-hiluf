@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Abera Hiluf</h1>
 <h3 align="center">A passionate Full Stack Web Developer based in Addis Ababa</h3>
 
-
+---
 
 ### 📌 About Me:
 🌟 I’m Abera Hiluf Teshale, currently studying Information Systems at Addis Ababa University.  
@@ -16,7 +16,7 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:teshalea000@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/abera-hiluf)
 
-
+---
 
 ### 🛠️ Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -37,7 +37,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abera-hiluf&theme=radical" width="48%" />
 </p>
 
-
+---
 
 ### 🧠 Currently Learning:
 - Advanced React & Redux
