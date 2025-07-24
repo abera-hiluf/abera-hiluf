@@ -8,7 +8,7 @@
 
 ### 📌 About Me:
 🌟 I’m Abera Hiluf Teshale, currently studying Information Systems at Addis Ababa University.  
-🌱 I’ve completed full stack development training at Evangadi Networks (React, Node.js, MySQL).  
+🌱** I’ve completed full stack development training at Evangadi Networks (React, Node.js, MySQL).**  
 👨‍💻 I love solving real-world problems through code and design.  
 🎯 I aim to build impactful projects that help my community grow through technology.
 
