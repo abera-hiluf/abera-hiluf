@@ -1,6 +1,4 @@
-<marquee direction="left" behavior="alternate" scrollamount="5">
-  <h1>👋 Hi, I'm Abera Hiluf</h1>
-</marquee>
+
 <marquee direction="left" behavior="alternate" scrollamount="5">
   <h1>👋 Hi, I'm Abera Hiluf</h1>
 </marquee>
