@@ -1,15 +1,19 @@
 <marquee direction="left" behavior="alternate" scrollamount="5">
   <h1>👋 Hi, I'm Abera Hiluf</h1>
 </marquee>
+<marquee direction="left" behavior="alternate" scrollamount="5">
+  <h1>👋 Hi, I'm Abera Hiluf</h1>
+</marquee>
 
 <h3 align="center">A passionate Full Stack Web Developer & AI/ML Enthusiast based in India</h3>
 
+---
 
-### 📌 About Me:
-🌟 I’m Abera Hiluf Teshale, originally from Addis Ababa, Ethiopia, and currently pursuing **Computer Science and Engineering with a focus on AI & Machine Learning at Anna University, India**.  
-🌱 I’ve completed full stack development training at **Evangadi Networks** (React, Node.js, MySQL, MERN Stack).  
-👨‍💻 I enjoy building intelligent, responsive web applications and solving real-world problems through code.  
-🎯 I aim to create impactful projects that integrate AI & Web technologies to drive innovation and benefit communities.
+### 📌 About Me
+- 🌟 **Who I am:** Abera Hiluf Teshale, originally from Addis Ababa, Ethiopia, currently pursuing **Computer Science & Engineering with a focus on AI & Machine Learning at Anna University, India**.  
+- 🌱 **Background:** Completed full stack development training at **Evangadi Networks** (React, Node.js, MySQL, MERN Stack).  
+- 👨‍💻 **Passion:** Building intelligent, responsive web applications and solving real-world problems through code.  
+- 🎯 **Goal:** Create impactful projects that integrate AI & Web technologies to drive innovation and help communities grow.
 
 ---
 
