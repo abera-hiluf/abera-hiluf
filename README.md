@@ -2,15 +2,14 @@
   <h1>👋 Hi, I'm Abera Hiluf</h1>
 </marquee>
 
-<h3 align="center">A passionate Full Stack Web Developer based in Addis Ababa</h3>
+<h3 align="center">A passionate Full Stack Web Developer & AI/ML Enthusiast based in India</h3>
 
----
 
 ### 📌 About Me:
-🌟 I’m Abera Hiluf Teshale, currently studying Information Systems at Addis Ababa University.  
-🌱** I’ve completed full stack development training at Evangadi Networks (React, Node.js, MySQL).**  
-👨‍💻 I love solving real-world problems through code and design.  
-🎯 I aim to build impactful projects that help my community grow through technology.
+🌟 I’m Abera Hiluf Teshale, originally from Addis Ababa, Ethiopia, and currently pursuing **Computer Science and Engineering with a focus on AI & Machine Learning at Anna University, India**.  
+🌱 I’ve completed full stack development training at **Evangadi Networks** (React, Node.js, MySQL, MERN Stack).  
+👨‍💻 I enjoy building intelligent, responsive web applications and solving real-world problems through code.  
+🎯 I aim to create impactful projects that integrate AI & Web technologies to drive innovation and benefit communities.
 
 ---
 
