@@ -8,7 +8,7 @@ Aspiring AI Engineer | Full Stack Developer | Building Intelligent Applications
 
 ## About Me
 
-I am **Abera Hiluf Teshale**, an undergraduate student pursuing a **Bachelor of Engineering in Computer Science and Engineering (Artificial Intelligence & Machine Learning)** at **Anna University, India**, under the **ICCR Scholarship**.
+I am **Abera **, an undergraduate student pursuing a **Bachelor of Engineering in Computer Science and Engineering (Artificial Intelligence & Machine Learning)** at **Anna University, India**, under the **ICCR Scholarship**.
 
 Originally from Ethiopia, I am passionate about building intelligent software that solves real-world problems. My primary interests include **Artificial Intelligence Engineering, Generative AI, Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), Full Stack Development, and Intelligent Automation**.
 
@@ -27,6 +27,10 @@ My goal is to become an AI Engineer who develops innovative, reliable, and scala
 
   <a href="https://github.com/abera-hiluf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://x.com/teshalea000" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 
   <a href="https://t.me/abzgreat1" target="_blank">
